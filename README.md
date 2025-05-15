@@ -16,5 +16,5 @@ Dự án này phát triển một mô hình dịch máy tự động cho cặp n
 * Lôi Đình Nhất - 22021152
 
 ## Tài liệu
-* [Báo cáo](https://drive.google.com/drive/folders/1du16xlovkIvloEw7wQ22yjT2rCyITD8x?usp=sharing)
+* [Báo cáo](https://drive.google.com/file/d/1FFKcYAyWze-FSX3oFoOXvDQfuDNmVLMo/view?usp=sharing)
 * [Slide thuyết trình](https://www.canva.com/design/DAGnhkYiOSU/mi4HAWkivL9K3BI1ATcZxw/edit?utm_content=DAGnhkYiOSU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
